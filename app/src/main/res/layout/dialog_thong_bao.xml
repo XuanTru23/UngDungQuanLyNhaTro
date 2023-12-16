@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/custom_background_dialog"
+    android:layout_margin="16dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="Thông báo"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:background="@drawable/custom_background_dialog1"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/tv_thong_bao_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:lineSpacingExtra="5sp"
+        android:textSize="14sp"
+        android:gravity="center"
+        android:padding="8dp"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_click"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_gravity="right"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:layout_marginEnd="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:textSize="12sp"
+        android:textAllCaps="false"
+        android:padding="8dp"
+        android:background="@drawable/btn_backround"
+        android:text="Đồng ý"/>
+
+</LinearLayout>

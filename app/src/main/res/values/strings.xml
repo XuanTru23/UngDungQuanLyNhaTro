@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Nhà trọ</string>
+
+    <string name="tv_title1">Tìm kiếm và lưu sở thích của bạn</string>
+    <string name="tv_deccription1">Duyệt các khách sạn tốt nhất từ hơn 40.000\ncơ sở dữ liệu phù hợp với nhu cầu riêng của bạn</string>
+
+    <string name="tv_title2">Tìm các giao dịch tốt nhất</string>
+    <string name="tv_deccription2">Tìm các giao dịch tốt nhất từ bất kỳ mùa nào và đặt từ danh sách được tuyển chọn</string>
+
+    <string name="tv_title3">Đặt phòng và tận hưởng kỳ nghỉ của bạn</string>
+    <string name="tv_deccription3">Chọn khách sạn và ngày theo sở thích của bạn để đặt phòng và có một kỳ nghỉ thú vị</string>
+
+    <string name="tv_forgot_password">Nhập Email mà tài khoản bạn đã đăng ký để nhận link đặt lại mật khẩu. Chú ý tin nhắn đặt lại mật khẩu có thể nằm ở mục Spam hoặc mục thư rác.</string>
+
+    <string-array name="combox_options">
+        <item>Chưa có người thuê</item>
+        <item>Đã có người thuê</item>
+    </string-array>
+</resources>

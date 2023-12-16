@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095905667866",
+    "project_id": "nhatro-e6375",
+    "storage_bucket": "nhatro-e6375.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095905667866:android:f51134c688dc8346af9aa3",
+        "android_client_info": {
+          "package_name": "com.example.nhatro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA22iEVuu6KWd3h1LMrTHcjhJZ1ybjfI0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

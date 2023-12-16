@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_home"
+        android:title="Quản lý phòng"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/item_stacked"
+        android:title="Thống kê"
+        android:icon="@drawable/ic_stacked_bar_chart"/>
+    <item
+        android:id="@+id/item_person"
+        android:title="Quản lý cài đặt"
+        android:icon="@drawable/ic_person"/>
+</menu>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="350dp"
+        android:layout_height="300dp"
+        app:lottie_rawRes="@raw/animation_quanly"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"/>
+
+    <TextView
+        android:id="@+id/tv_title1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Ứng dựng giúp bạn thống kê doanh thu, tính toán hóa đơn của khu trọ mình một cách nhanh chóng."
+        android:textSize="20sp"
+        android:lineSpacingExtra="5sp"
+        android:textStyle="bold"
+        android:textColor="#EF4339"
+        android:gravity="center"/>
+
+
+</LinearLayout>
